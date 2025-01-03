@@ -21,3 +21,7 @@
 ### [Basic Command - 1](./docker-commands/1.md)
 
 ### [Basic Commands - 2](./docker-commands/2.md)
+
+## Mysql on Docker
+
+### [mysql-editions-docker](./notes/mysql-docker-aws/mysql-editions-docker.md)
