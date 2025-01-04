@@ -29,3 +29,5 @@
 ### [running-mysql-docker](./notes/mysql-docker-local/using-mysql-docker.md)
 
 ### [Ports](./notes/mysql-docker-local/ports.md)
+
+### [MySql Data Directory](./notes/mysql-docker-local/mysql-data-directory.md)
