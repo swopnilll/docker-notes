@@ -24,6 +24,8 @@
 
 ## Mysql on Docker
 
-### [mysql-editions-docker](./notes/mysql-docker-aws/mysql-editions-docker.md)
+### [mysql-editions-docker](./notes/mysql-docker-local/mysql-editions-docker.md)
 
-### [running-mysql-docker](./notes/mysql-docker-aws/using-mysql-docker.md)
+### [running-mysql-docker](./notes/mysql-docker-local/using-mysql-docker.md)
+
+### [Ports](./notes/mysql-docker-local/ports.md)
