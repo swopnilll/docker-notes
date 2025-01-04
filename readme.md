@@ -34,16 +34,4 @@
 
 ### [MySql Managed Service](./notes/mysql-docker-local/managed-service.md)
 
-### **How MySQL Finds and Uses the Configuration File**
-
-When MySQL starts, it searches for configuration files in a specific order. Common locations include:
-
-- **Linux:**
-  - `/etc/my.cnf` (global configuration file)
-  - `/etc/mysql/my.cnf` (alternative global location)
-  - `~/.my.cnf` (user-specific configuration)
-- **Windows:**
-  - `C:\Program Files\MySQL\MySQL Server X.X\my.ini`
-  - `%APPDATA%\MySQL\.my.ini`
-
-If multiple files exist, settings from later files in the search order override earlier ones.
+### [MySql Users and Permissions](./notes/mysql-docker-local/user-and-permission.md)
