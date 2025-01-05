@@ -22,6 +22,8 @@
 
 ### [Basic Commands - 2](./docker-commands/2.md)
 
+### [Basic Commands - 3](notes/docker-commands/usefull-commands.md)
+
 ## Mysql on Docker
 
 ### [mysql-editions-docker](./notes/mysql-docker-local/mysql-editions-docker.md)
@@ -35,3 +37,5 @@
 ### [MySql Managed Service](./notes/mysql-docker-local/managed-service.md)
 
 ### [MySql Users and Permissions](./notes/mysql-docker-local/user-and-permission.md)
+
+### [Connecting Mysql Container](./notes/mysql-docker-local/making-connections.md)
