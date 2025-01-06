@@ -1,4 +1,7 @@
-FROM debian:11
+FROM node:11-alpine
 
-CMD ["echo", "Hello world"]
+COPY compute.js .
 
+CMD node compute.js
+
+ 
