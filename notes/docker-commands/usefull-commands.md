@@ -11,3 +11,7 @@
 | `docker-compose up`         |       Starts services defined in a docker-compose.yml file        |              `docker-compose up -d` |
 | `docker-compose down`       |       Stops and removes services defined in docker-compose        |               `docker-compose down` |
 | `docker container prune -f` | Removes all stopped containers. The `-f` flag skips confirmation. |         `docker container prune -f` |
+
+
+
+![Uploading image.png…]()
