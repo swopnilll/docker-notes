@@ -4,6 +4,8 @@
 
 ### [SSH](./notes/ec2-docker-hw/ssh.md)
 
+### [EC2 RECAP](./notes/ec2-docker-hw/ec2-recap.md)
+
 ## Notes on Docker Architechture
 
 ### [Lecture 1](./notes/docker-arch/lecture1.md)
